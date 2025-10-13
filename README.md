@@ -1,4 +1,3 @@
-![](https://i.imgur.com/5B0s3Oc.jpeg)
 
 `
 anyhow something somewhere
